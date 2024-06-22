@@ -7,3 +7,4 @@ class Persona:
             
 Hola = Persona("Pedro", 35)
 Hola.saludar() #salida: Hola, mi nombre es Juan y tengo 12 años.
+print("nombre")
