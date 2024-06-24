@@ -15,7 +15,7 @@ class Universidad:
     def __init__(self):
         self.listaEstudiante = []
         
-    def mostrarEstudiantes(self,estudiante): 
+    def mostrarEstudiantes(self, estudiante):
         self.listaEstudiante.append(estudiante) 
         
         
