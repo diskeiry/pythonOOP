@@ -18,4 +18,4 @@ maria.pais = 'Spain'
 print(f"La edad de victor es: {victor.edad} años")
 print(f"Victor vive en: {victor.pais}")
 print(f"La edad de maria es: {maria.edad} años")
-
+print(f"Maria vive en: {maria.pais}")
