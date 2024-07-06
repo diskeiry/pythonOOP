@@ -1,5 +1,4 @@
 import bcrypt
-
 class Usuario:
     def __init__(self) -> None:
         self.usuario = ''
@@ -28,7 +27,7 @@ class Usuario:
 usuario = Usuario()
 # Ejecutar el programa
 while True:
-    print("\n--- MENÚ ---")
+    print("\n--- MENÚ DE REGISTRO USUARIO ---")
     print("1. Agregar usuario")
     print("2. Mostrar usuarios y hashes de contraseñas")
     print("3. Salir")  
